@@ -1,6 +1,9 @@
 # IPV4-Networking
 
-I created an ipv4 scheme for a given network diagram(part 1), built the network and applied the created ipv6 scheme using packet tracer(part 2).
+This is in 3 parts 
 
-I did some troubleshooting for a broken network and implemented the solutions(part 3)
+To creat an IPv4 scheme for the network design provided in the network diagram provided for Part 1 and apply the scheme to the network diagram correctly.
+To build a fully working simulation of the network diagram and IP scheme provided in the network diagram for Part 2 , built upon the provided starter simulation file which contains the ISP network - which is already configured for you.
+To troubleshoot and fix 10 faults that are present in the simulation file provided for Part 3 so that it works according to the supplied network diagram file.  You should provide suitable documentation to show how the faults were found and fixed.
 
+# using packet tracer 
